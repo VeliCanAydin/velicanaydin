@@ -26,7 +26,7 @@ Coding enthusiast
 
 ### Dev Stuffs:
 	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>⚡ Github Stats</b></summary> </br>
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VeliCanAydin&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VeliCanAydin&layout=compact&exclude_lang=java+r&theme=vue-dark"/>
