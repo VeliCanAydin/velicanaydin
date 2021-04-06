@@ -28,5 +28,6 @@ Coding enthusiast
 	
   <summary><b>⚡ Github Stats</b></summary> </br>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VeliCanAydin&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeliCanAydin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VeliCanAydin&layout=compact&exclude_lang=java+r&theme=vue-dark"/>
