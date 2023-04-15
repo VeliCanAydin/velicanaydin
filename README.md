@@ -28,5 +28,7 @@ Full Stack Web Developer
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash"></code>
+
 <br>
-[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=VeliCanAydin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<center>[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=VeliCanAydin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</center>
